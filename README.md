@@ -32,9 +32,9 @@ I've been in the blockchain space for 1+ year, mainly working with **Solidity, E
 
 ### 🛠️ Tech Stack
 
-**Blockchain:** Solidity · EVM · Foundry
-**Tools:** Git · GitHub · Remix · Slither · Bash
-**Security:** Smart Contract Auditing · DeFi Security · Fuzz Testing
+* **Blockchain:** Solidity · EVM · Foundry
+* **Tools:** Git · GitHub · Remix · Slither · Bash
+* **Security:** Smart Contract Auditing · DeFi Security · Fuzz Testing
 
 ### Currently Learning
 
