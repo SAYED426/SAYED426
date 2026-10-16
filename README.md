@@ -36,10 +36,6 @@ I've been in the blockchain space for 1+ year, mainly working with **Solidity, E
 **Tools:** Git · GitHub · Remix · Slither · Bash
 **Security:** Smart Contract Auditing · DeFi Security · Fuzz Testing
 
-### 📊 GitHub Stats
-
-![Followers](https://img.shields.io/github/followers/SAYED426?style=flat&label=Followers&color=blue)
-
 ### Currently Learning
 
 * Advanced Smart Contract Security
